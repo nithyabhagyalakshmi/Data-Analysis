@@ -1,0 +1,89 @@
+    1  PWd
+    2  ls
+    3  touch demo.txt
+    4  ls
+    5  touch file{1..10}.txt
+    6  ls
+    7  cd..
+    8  cd ..
+    9  cd GIST
+   10  PWd
+   11  cd d:
+   12  pwd
+   13  echo hello
+   14  touch hello.txt
+   15  ls
+   16  hello >>hello.txt
+   17  cat hello.txt
+   18  echo {1..100}
+   19   ls -l
+   20  touch myFiles{1..100}
+   21  rm *.txt
+   22  cat file to tile1
+   23  touch file1.txt
+   24  ls
+   25  cat fie1.txt >> file2.txt
+   26  cat file1.txt
+   27  pwd
+   28  ls
+   29  Ls
+   30  touch first.txt
+   31  ls
+   32  mkdir GIST
+   33  cd
+   34  cd first
+   35  cd ..
+   36  pwd
+   37  cd e:
+   38  ls
+   39  cd d:
+   40  cd C:/Users/dell/Desktop/Bhagyaklakshmi-4b4
+   41  echo 1..100
+   42  echo {1..100}
+   43  touch file{1..100}.txt
+   44  touch file{20..50}.py
+   45  touch clanguage{50..70}.cpp
+   46  touch clanguage{50..70}.cpp
+   47  ls
+   48  pwd
+   49  pwd
+   50  ls
+   51  cd C:\Users\dell\Desktop\Bhagyaklakshmi-4b4
+   52  pwd
+   53  ls
+   54  ls
+   55  rm demo.txt
+   56  cd first.txt
+   57  ls
+   58  rm gist
+   59  rm file{1..10}.txt
+   60  pwd
+   61  ls
+   62  rm clanguage{50..100}.txt
+   63  ls
+   64  rm*.txt
+   65  ls
+   66  rm *.py
+   67  ls
+   68  rm *.txt
+   69  ls
+   70  rm *.clanguage
+   71  ls
+   72  rm *.cpp
+   73  ls
+   74  nano myfile.txt
+   75  cat myfile.txt
+   76  nano myfile.txt
+   77  cat myfile.txt
+   78  echo "hello" >>myfile2.txt
+   79  cat myfile2.txt
+   80  echo {1..1000} >> myfile3.txt
+   81  cat myfile3.txt
+   82  mv myfile3.txt myfile2.txt
+   83  cat myfile2.txt
+   84  ls
+   85  cp myfile2.txt myfile.txt
+   86  cat myfile.txt
+   87  ls
+   88  history 
+   89  history >>history.txt
